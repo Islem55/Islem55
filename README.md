@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Islem Cherni</h1>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="150" src="Gemini_Generated_Image_dnihdednihdednih.png"/>
 
 🎓 Computer Science Student  
 💻 Passionate about software development and web technologies  
