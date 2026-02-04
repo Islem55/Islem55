@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="60%">
 
 <img src="Gemini_Generated_Image_dnihdednihdednih.png" width="100%"/>
 
