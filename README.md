@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A1AFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Islem+Cherni;Computer+Science+Student;Welcome+to+my+GitHub+Profile+🚀" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Islem+Cherni+and+curious+developer;Computer+Science+Student;Welcome+to+my+GitHub+Profile+🚀" />
+</p>
 
 <table>
 <tr>
