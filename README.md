@@ -63,7 +63,7 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=angular" height="30"/>
 </div>
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A1AFF&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!" />
@@ -72,4 +72,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Islem55/Islem55/output/snake.svg" alt="Snake animation"/>
