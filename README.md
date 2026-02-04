@@ -12,7 +12,7 @@
 
 </td>
 
-<td width="50%">
+<td width="60%">
 
 
 ## 👨‍💻 About Me
@@ -28,17 +28,12 @@
 </tr>
 </table>
 
----
 
 ## 🚀 Projects
 - 📚 Lectura – Multilingual Online Library
 - 🔥 Forest Fire SIG Web Application
 
----
 
-
-
----
 
 ## 🚀 Tech Stack
 <div align="left">
@@ -69,9 +64,11 @@
   <img src="https://skillicons.dev/icons?i=angular" height="30"/>
 </div>
 
----
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A1AFF&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!" />
+</p>
+
 
 <br clear="both">
 
