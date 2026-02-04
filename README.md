@@ -6,17 +6,14 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
 <img src="Gemini_Generated_Image_dnihdednihdednih.png" width="100%"/>
 
 </td>
 
-<td width="60%">
+<td width="40%">
 
-🎓 Computer Science Student  
-💻 Passionate about software development and web technologies  
-🚀 I enjoy building projects and learning new tools every day  
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student
