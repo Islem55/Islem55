@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋 I'm Islem Cherni</h1>
+<h1 align="center">Hey 👋 I'm Islem Cherni</h1>
 
-<img align="right" height="150" src="Gemini_Generated_Image_dnihdednihdednih.png"/>
+<table>
+<tr>
+<td width="40%">
+
+<img src="Gemini_Generated_Image_dnihdednihdednih.png" width="100%"/>
+
+</td>
+
+<td width="60%">
 
 🎓 Computer Science Student  
 💻 Passionate about software development and web technologies  
 🚀 I enjoy building projects and learning new tools every day  
-
----
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student
 - 📚 Always learning and improving my skills
 - 🛠️ I like building academic and personal projects
 - 🤝 Open to collaboration and new opportunities
+
+</td>
+</tr>
+</table>
 
 ---
 
