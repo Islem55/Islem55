@@ -12,14 +12,17 @@
 
 </td>
 
-<td width="40%">
+<td width="50%">
 
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student
-- 📚 Always learning and improving my skills
-- 🛠️ I like building academic and personal projects
+- 💻 Passionate about software development and web technologies
+- 📚 Always learning new tools and improving my technical skills
+- 🛠️ Building academic and personal projects
+- 🚀 Interested in creating useful and innovative applications
 - 🤝 Open to collaboration and new opportunities
+
 
 </td>
 </tr>
@@ -28,16 +31,12 @@
 ---
 
 ## 🚀 Projects
-- 🛒 Student E-commerce Website
 - 📚 Lectura – Multilingual Online Library
 - 🔥 Forest Fire SIG Web Application
 
 ---
 
-## 📈 Currently Learning
-- Web Development
-- Software Engineering Concepts
-- Problem Solving & Clean Code
+
 
 ---
 
