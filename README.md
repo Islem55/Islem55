@@ -1,16 +1,38 @@
-## Hi, I'm Islem Cherni 👋
+# Hi 👋 I'm Islem Cherni
 
-<!--
-**Islem55/Islem55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about software development and web technologies  
+🚀 I enjoy building projects and learning new tools every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Computer Science student
+- 📚 Always learning and improving my skills
+- 🛠️ I like building academic and personal projects
+- 🤝 Open to collaboration and new opportunities
+
+---
+
+## 🚀 Projects
+- 📚 Lectura – Multilingual Online Library
+- 🔥 Forest Fire SIG Web Application
+
+---
+
+## 📈 Currently Learning
+- Web Development
+- Software Engineering Concepts
+- Problem Solving & Clean Code
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/Islem55
+- Linkedin : www.linkedin.com/in/islem-cherni-
+
+
+
+---
+
+⭐ Thanks for visiting my profile!
